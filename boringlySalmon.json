@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#E76F51",
+  "secondaryColor": "#E7B551",
+  "tertiaryColor": "#BA3C7F",
+  "backgroundColor": "#1F1F1F",
+  "surfaceColor": "#373737",
+  "surfaceColorHover": "#5A5A5A",
+  "defaultWhite": "#FFFFFF",
+  "arrowPrimary": "#E76F51",
+  "arrowSecondary": "#E7B551",
+  "arrowTertiary": "#BA3C7F",
+  "arrowAlternate": "#4b81e6"
+}
