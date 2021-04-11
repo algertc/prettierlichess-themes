@@ -1,5 +1,7 @@
 
 # PrettierLichess Community Themes
+![enter image description here](https://github.com/algertc/prettierdiscord-themes/blob/main/media/logo_round.png?raw=true)
+
 
 This is a collection of themes for [PrettierLichess](https://github.com/prettierlichess/prettierlichess), a browser extension to customize the look and feel of Lichess.org. Submissions are welcome and appreciated! (see contributions section)
 
