@@ -1,0 +1,19 @@
+{
+  "primaryColor": "#FF6F59",
+  "secondaryColor": "#EE964B",
+  "tertiaryColor": "#F7CBA5",
+  "backgroundColor": "#3C2D53",
+  "surfaceColor": "#6D425F",
+  "surfaceColorHover": "#643D52",
+  "defaultWhite": "#FFFFFF",
+  "textColor": "#DDC4D1",
+  "arrowPrimary": "#FF6F59",
+  "arrowSecondary": "#f3ae48",
+  "arrowTertiary": "#d64d4d",
+  "arrowAlternate": "#4b81e6",
+  "lastMove": "#FF6F59",
+  "preMove": "#C2C71B",
+  "moveIndicator": "#FF6F59",
+  "boardDark": "#8A718F",
+  "boardLight": "#c7c7c7"
+}
