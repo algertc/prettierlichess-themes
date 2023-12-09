@@ -1,0 +1,17 @@
+{
+  "primaryColor": "#B4BEFE",
+  "secondaryColor": "#ABBFA9",
+  "tertiaryColor": "#EBA0AC",
+  "backgroundColor": "#1e1e2e",
+  "surfaceColor": "#313244",
+  "surfaceColorHover": "#45475A",
+  "defaultWhite": "#cdd6f4",
+  "arrowPrimary": "#88AF85",
+  "arrowSecondary": "#FAB387",
+  "arrowTertiary": "#EBA0AC",
+  "arrowAlternate": "#94E2D5",
+  "lastMove": "#8CB3BE",
+  "preMove": "#574A65",
+  "moveIndicator": "#84A981",
+  "boardDark": "#787D95"
+}
